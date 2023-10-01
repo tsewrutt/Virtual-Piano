@@ -1,3 +1,3 @@
 # Virtual Piano
 Piano application using MVC architecture, enabling users to play using keyboard or mouse input. Other instruments may be added in the future. The application includes a theme selection menu for choosing seasonal themes.
-<img src="https://github.com/tsewrutt/Virtual-Piano/blob/main/src/images/piano.jpg" alt="image" width="10" height="10">
+<img src="https://github.com/tsewrutt/Virtual-Piano/blob/306197bc9feacc1a38c9dd624a034c46c2c7f325/src/images/piano.jpg" alt="image" width="100" height="100">
