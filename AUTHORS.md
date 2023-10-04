@@ -1,3 +1,3 @@
 # Project Author(s)
 
-- Sewruttun Toukeshwar[Toushal], tsewrutt.work@unb.ca
+- Sewruttun Toushal, tsewrutt.work@unb.ca
