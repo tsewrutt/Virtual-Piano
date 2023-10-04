@@ -1,10 +1,4 @@
-# CS3035 – Course Project Description
-
-## Description of Your Project
-
-Below, provide a short description of what your project is, how it works, and why you selected this as your project.
-
-
+# Description of Project
 
 ## Requirements
 
